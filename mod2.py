@@ -7,5 +7,6 @@ def safe_sum(a,b):
 		return
 	else:
 	 	result =sum(a,b)
+
 	return result
 
